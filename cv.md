@@ -21,3 +21,10 @@ __languages:__
 * B2 (EF SET test)
 2. español
 * A1
+
+__skills:__ Basic knowledge of HTML, CSS, beginner level JavaScript and Git basics.
+
+__work experience:__ Only educational and test projects, mostly from university and RSSChool stage 1 (september training).
+
+__code example:__ https://github.com/hannahahaha24/bird21
+__Thank you for reading!__
