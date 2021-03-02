@@ -1,1 +1,70 @@
+body {
+    margin: auto;
+    width: 750px;
+}
+header {
+    width: 710px;
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-image: url(https://images.pexels.com/photos/62693/pexels-photo-62693.jpeg?cs=srgb&dl=pexels-ovan-62693.jpg&fm=jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+footer {
+    margin-top: 3px;
+    margin-bottom: 10px;
+    padding: 5px 0px;
+    background-image: url(https://images.pexels.com/photos/62693/pexels-photo-62693.jpeg?cs=srgb&dl=pexels-ovan-62693.jpg&fm=jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+h1 {
+    margin-top: 15px;
+    margin-bottom: 10px;
+    font-family:'Felix Titling';
+}
+h3 {
+    margin-top: 15px;
+    font-family:'Felix Titling';
+    margin-bottom: 5px;
+}
+p {
+    font-family: 'Century gothic';
+    font-size: 14px;
+margin-top: 5px;
+}
+ul {
+margin-top: 5px;
+    font-family: 'Century gothic';
+    font-size: 14px;
 
+}
+ol {
+margin-top: 5px;
+    font-family: 'Century gothic';
+    font-size: 14px;
+
+}
+.column {
+    width: 300px;
+    height: 450px;
+    background-color: #e3f3ff;
+    margin-bottom: 0px;
+    padding: 10px 55px 70px;
+}
+aside {
+    float: right;
+    width: 238px;
+    height: 490px;
+    background-color: #e3f3ff;
+    margin-left: 40px;
+    margin-bottom: 10px;
+    padding: 10px 50px 30px;
+}
+.photo {
+    width: 230px;
+    height: 170px;
+    float: center;
+}
